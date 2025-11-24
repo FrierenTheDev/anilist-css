@@ -1,11 +1,5 @@
-/*
-*   For any questions check out https://github.com/Mentor404/anilist-css/issues
-*/
-
-/* background */
 :root{
-    --background: url("https://files.catbox.moe/afhofp.png");
-                        /* Put your background here ^^ */
+    --background: url("https://files.catbox.moe/ctsatj.jpg");
 }
 
 body {
